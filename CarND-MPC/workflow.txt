@@ -1,0 +1,19 @@
+0.open 2 docker terminal, open image in 1 terminal, leave another for file transfer
+open git terminal, open cmd terminal
+
+1.edit in windows or in docker
+
+docker start Udacity
+docker attatch Udacity
+
+2.cp in docker image or update through GitHub
+
+3.make in docker cd build/ && make, run in docker ./mpc
+
+4.cp output.txt to host machine
+
+docker cp Udacity:work/CarND-MPC-Quizzes/mpc_to_line/build/output.txt 
+cpp_project/modell_predictive_control/CarND-MPC-Quizzes/mpc_to_line/
+
+5.run jupyter notebook result_display.ipynb to display and save the result
+
