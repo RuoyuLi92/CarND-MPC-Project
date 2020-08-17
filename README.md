@@ -23,7 +23,7 @@ Port Forwarding Instructions
 !["port-forward setting"](port-forward.png)
 
 ### MPC-Trajectory-Generation
-This sub project involves a modified simulator which is included in repo [modified_sim](), run the following command to build and run the program:
+This sub project involves a modified simulator which is included in repo [modified_sim](https://github.com/RuoyuLi92/CarND-MPC-Project/blob/master/modified_simulator.rar), run the following command to build and run the program:
  1. cd CarND-MPC-Trajectory-Generation
  2. mkdir build && cd build
  3. cmake .. && make
