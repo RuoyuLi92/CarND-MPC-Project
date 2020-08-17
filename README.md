@@ -62,6 +62,5 @@ After installations and configurations are done, clone this repo into the docker
 After seeing "Listening to port 4567", we can start the term2 simulator and choose MPC project to run.
 
 ## Simulating result
-<<<<<<< HEAD
 The MPC simulating result is demonstrated in the figure
 !["result"](Udacity_cut_half.gif)
