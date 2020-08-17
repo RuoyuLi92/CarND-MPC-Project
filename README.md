@@ -65,8 +65,3 @@ After seeing "Listening to port 4567", we can start the term2 simulator and choo
 <<<<<<< HEAD
 The MPC simulating result is demonstrated in the figure
 !["result"](Udacity_cut_half.gif)
-=======
-The result is demonstrated in the figure, the blue circles with direction indicators are measurements, red circles are the actual trajectory and green triangles stands for the trajectory estimated by EKF. The RMSE is printed in simulator also
->>>>>>> b2601100da38ecc3076fbccbcd8e08e40638b5c7
-
-![](Udacity_cut_half.gif)
