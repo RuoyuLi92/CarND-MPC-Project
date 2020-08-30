@@ -2,9 +2,9 @@
 Self-Driving Car Engineer Nanodegree Program
 
 This project has 3 sub projects including:
-1. [CarND-MPC](https://github.com/RuoyuLi92/CarND-MPC-Project/tree/master/CarND-MPC): Implementation of MPC to realize tracking of lake round track for automated-driving vehicle.
-2. [CarND-MPC-Trajectory-Generation](https://github.com/RuoyuLi92/CarND-MPC-Project/tree/master/CarND-MPC-Trajectory-Generation): Implementation of a trajectory generator, the purpose is to generate circular trajectory in modified simulator and to record the trajectory for following model identification task. 
-3. [CarND-MPC-Model-Identification](https://github.com/RuoyuLi92/CarND-MPC-Project/tree/master/CarND-MPC-Model-Identification): Implementation of a model identification application for MPC-Project.
+1. [CarND-MPC-Trajectory-Generation](https://github.com/RuoyuLi92/CarND-MPC-Project/tree/master/CarND-MPC-Trajectory-Generation): Implementation of a trajectory generator, the purpose is to generate circular trajectory in modified simulator and to record the trajectory for following model identification task. 
+2. [CarND-MPC-Model-Identification](https://github.com/RuoyuLi92/CarND-MPC-Project/tree/master/CarND-MPC-Model-Identification): Implementation of a model identification application for MPC-Project.
+3. [CarND-MPC](https://github.com/RuoyuLi92/CarND-MPC-Project/tree/master/CarND-MPC): Implementation of MPC to realize tracking of lake round track for automated-driving vehicle.
 	
 ## Environment set-up and instructions
 The Docker relevant settings are the same for both 3 sub projects, it should be done only once. The controller prgramm is running in Docker Image, to run the Image with dependencies requried by this project, use the following command in Docker Quickstart Terminal:
